@@ -1,7 +1,11 @@
-cmake_minimum_required(VERSION 3.10.2)
+cmake_minimum_required(VERSION 3.17)
 
-set(This Example)
+project(Pre_Project VERSION 1.0)
 
-project(${This} CXX)
+set(CMAKE_CXX_STANDARD_11 11)
+set(CMAKE_CXX_STANDARD_REQUIRED true)
 
-set(CMAKE_C++_STANDARD 11)
+project("Pre_Project")
+
+add_executable("${PROJECT_NAME}" Arm_Master.cxx Arm_Slave.cxx)
+
