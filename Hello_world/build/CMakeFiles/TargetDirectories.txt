@@ -1,3 +1,0 @@
-/home/mehdi/git_repo/Pre_Project/Hello_world/build/CMakeFiles/rebuild_cache.dir
-/home/mehdi/git_repo/Pre_Project/Hello_world/build/CMakeFiles/edit_cache.dir
-/home/mehdi/git_repo/Pre_Project/Hello_world/build/CMakeFiles/first_hello_world_STM32F301x6.elf.dir
